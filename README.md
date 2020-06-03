@@ -1,7 +1,7 @@
 # portfolio
 
-Repositório feito para armazenar vídeos de demonstração de todos os meus projetos
+Link para vídeos de demonstração de todos os meus projetos
 
-Para baixar os vídeos, clique no nome do arquivo e depois em "View raw"
+### https://www.youtube.com/user/raquel4104/playlists
 
 ### raquelmartins203@yahoo.com.br
